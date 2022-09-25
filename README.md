@@ -22,4 +22,6 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 Welcome to metric converter! 
 Please input your query. For example, 5 lbs, or 10 in.
 If a user input something that is not handled, you should print something to remind the user the valid input format.
-Your input is not currently handled by this app, please input another query.# CSI2300Assign2
+Your input is not currently handled by this app, please input another query.
+
+# CSI2300Assign2
